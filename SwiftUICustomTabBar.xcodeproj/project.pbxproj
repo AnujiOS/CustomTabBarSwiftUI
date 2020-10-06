@@ -12,6 +12,7 @@
 		4DDE0E68252CCBA600E3E443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DDE0E67252CCBA600E3E443 /* Assets.xcassets */; };
 		4DDE0E6B252CCBA600E3E443 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DDE0E6A252CCBA600E3E443 /* Preview Assets.xcassets */; };
 		4DDE0E79252CD0C900E3E443 /* CustomTabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDE0E78252CD0C900E3E443 /* CustomTabBarItem.swift */; };
+		4DDE0E7C252CD2DE00E3E443 /* TabBarItemData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDE0E7B252CD2DE00E3E443 /* TabBarItemData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4DDE0E6A252CCBA600E3E443 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4DDE0E6C252CCBA600E3E443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DDE0E78252CD0C900E3E443 /* CustomTabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarItem.swift; sourceTree = "<group>"; };
+		4DDE0E7B252CD2DE00E3E443 /* TabBarItemData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItemData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4DDE0E63252CCBA400E3E443 /* SwiftUICustomTabBarApp.swift */,
 				4DDE0E65252CCBA400E3E443 /* ContentView.swift */,
 				4DDE0E78252CD0C900E3E443 /* CustomTabBarItem.swift */,
+				4DDE0E7B252CD2DE00E3E443 /* TabBarItemData.swift */,
 				4DDE0E67252CCBA600E3E443 /* Assets.xcassets */,
 				4DDE0E6C252CCBA600E3E443 /* Info.plist */,
 				4DDE0E69252CCBA600E3E443 /* Preview Content */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DDE0E7C252CD2DE00E3E443 /* TabBarItemData.swift in Sources */,
 				4DDE0E66252CCBA400E3E443 /* ContentView.swift in Sources */,
 				4DDE0E79252CD0C900E3E443 /* CustomTabBarItem.swift in Sources */,
 				4DDE0E64252CCBA400E3E443 /* SwiftUICustomTabBarApp.swift in Sources */,
